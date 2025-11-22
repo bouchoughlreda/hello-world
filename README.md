@@ -42,3 +42,19 @@ Following the GitHub Flow guide step by step:
 ```bash
 git clone https://github.com/bouchoughlreda/hello-world.git
 cd hello-world
+
+## 📚 Citation
+
+If you use this project in your research or learning materials, please cite it:
+
+```bibtex
+@software{your_last_name_hello_world_2025,
+  title = {Hello World GitHub Learning Project},
+  author = {bouchoughl, reda},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/bouchoughlreda/hello-world}},
+  version = {1.0.0},
+  license = {MIT}
+}
