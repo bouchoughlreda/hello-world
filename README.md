@@ -21,6 +21,6 @@ This is my first GitHub repository where I'm learning Git version control and Gi
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/hello-world.git
+   git clone https://github.com/bouchoughlreda/hello-world.git
    cd hello-world
    
