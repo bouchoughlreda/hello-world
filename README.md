@@ -24,3 +24,10 @@ This is my first GitHub repository where I'm learning Git version control and Gi
    git clone https://github.com/bouchoughlreda/hello-world.git
    cd hello-world
    
+ ## GitHub Flow Practice
+
+Following the GitHub Flow guide step by step:
+1. Created feature branch
+2. Making changes
+3. Will create pull request
+4. Then merge to main  
