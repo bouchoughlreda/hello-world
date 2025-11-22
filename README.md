@@ -55,6 +55,6 @@ If you use this project in your research or learning materials, please cite it:
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/bouchoughlreda/hello-world}},
-  version = {1.0.0},
+  version = {1.2.0},
   license = {MIT}
 }
