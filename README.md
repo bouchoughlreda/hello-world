@@ -30,4 +30,15 @@ Following the GitHub Flow guide step by step:
 1. Created feature branch
 2. Making changes
 3. Will create pull request
-4. Then merge to main  
+4. Then merge to main
+ 
+## 🚀 Quick Start
+
+### Prerequisites
+- Git installed on your machine
+- GitHub account
+
+### Installation
+```bash
+git clone https://github.com/bouchoughlreda/hello-world.git
+cd hello-world
