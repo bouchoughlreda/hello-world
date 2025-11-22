@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this project in your work, please cite it using the following metadata"
+title: "Hello World GitHub Learning Project"
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+doi: 10.5281/zenodo.1234567
+date-released: 2025-05-28
+url: "https://github.com/bouchoughlreda/hello-world"
+license: MIT
+keywords:
+  - "git"
+  - "github"
+  - "learning"
+  - "version-control"
+  - "education"
+abstract: "A comprehensive learning project demonstrating Git and GitHub workflows, including repository management, branching strategies, pull requests, documentation, and GitHub Pages deployment."
